@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(2, 6, 21, 0.4);
+    background-image: url('images/Excalibur Umbra.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
+    color: white;
+    font-family: jura, sans-serif;
+}
+
+.logo img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px; 
+}
+
+h3 {
+    margin-top: 20px;
+    text-align: center; 
+}
+
+.registro {
+    max-width: 100%;
+    margin-left: 50px;
+    background-color: #021526;
+    padding: 24px;
+    border-radius: 30px;
+    color: white; 
+}
+
+.registro h1 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-check {
+    margin-bottom: 20px;
+}
+
+.form-check-input {
+    vertical-align: middle;
+}
+
